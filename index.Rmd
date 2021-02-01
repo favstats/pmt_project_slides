@@ -49,7 +49,9 @@ Data Sources:
 + Volunteer data from Who Targets Me Plugin (more about this later)
 
 
-[Link](https://dashboard.politieke-advertenties.nl/) to dashboard.
+Link to dashboard:
+
+*dashboard.politieke-advertenties.nl*
 
 ---
 
