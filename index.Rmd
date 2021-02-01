@@ -1,6 +1,6 @@
 ---
 title: "Political Microtargeting Project"
-author: "Fabio Votta, Tom Dobber, Arman Noroozian<br>Eva Groen-Reijman, Beate Roessler<br>Natali Helberger, Claes de Vreese"
+author: "Fabio Votta, Tom Dobber, Arman Noroozian<br>Eva Groen-Reijman, Beate Roessler<br>Natali Helberger, Claes de Vreese<br><br>Funding by the *NWO-MVI*"
 date: "`r Sys.Date()`"
 output:
   xaringan::moon_reader:
@@ -29,7 +29,7 @@ Two main goals:
 
 2. Create transparency software to make visible character and extent of political microtargeting.
 
-Funding by the *NWO-MVI*
+
 
 
 ---
